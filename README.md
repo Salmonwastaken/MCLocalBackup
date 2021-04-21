@@ -1,5 +1,5 @@
 # MCLocalBackup
-a bash script that will safely make a (local) backup of my Minecraft world.
+a shell script that will safely make a (local) backup of my Minecraft world.
 
 Consists of just the script at https://github.com/Salmonwastaken/MCLocalBackup/blob/main/MCWorldBackup.sh
 
